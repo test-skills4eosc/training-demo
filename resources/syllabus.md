@@ -37,11 +37,25 @@ hide:
 
 {!RELEASE_NOTES.md!}
 
+---
+title: My Document
+author:
+  - John Doe
+  - Jane Doe
+tags:
+  - FAIR-by-Design
+  - Markdown
+---
+
+
 # Type (Course/Workshop/Webinar)
 
 ## Date/Time: when it will be offered
 
 - put available from date if it is self-paced
+
+[See here for more details about unordered lists](syllabus.md#Duration)
+
 
 ## Location
 
@@ -64,12 +78,13 @@ hide:
 
 ## Prerequisites
 
-- if any
 
+- if any
+![](attachments/1371435187439.png)
 ## Duration
 
 - total training duration
-
+![](attachments/Pasted%20image%2020250502231747.png)
 ## Training objectives
 
 - list of specific training objectives
@@ -78,7 +93,21 @@ hide:
 
 Keywords or tags used to describe the training.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/374gx2RdIz8?si=VpnD4z9oNn33au3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Agenda: Training Schedule - Training Structure
+
+
+| fesfseef | fesfsefsefsefsef | fsefsefsfsefse   |     |     |
+| -------- | ---------------- | ---------------- | --- | --- |
+|          |                  | sefsesefsefsefse |     |     |
+|          |                  |                  |     |     |
+**holas**
+*holaw
+***freeee bird***
+
+~~This is a strikethrough~~
 
 | Date/Time | Topic             |
 |-----------|-------------------|
